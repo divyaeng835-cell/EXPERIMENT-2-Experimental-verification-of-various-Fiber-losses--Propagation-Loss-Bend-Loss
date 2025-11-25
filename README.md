@@ -10,7 +10,7 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Oscilloscope  
 - Function Generator  
 - Fiber cables  
-
+ 
 **Theory:**  
 - Losses due to absorption, scattering, bending  
 - Plastic fiber loss ~180 dB/km  
@@ -28,14 +28,16 @@ V1/V2 = e [ -a (L1+L2 ) ]
 ### Propagation Loss
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
+|--------------|---------------------|----------------------|
+| 0.5m         |  2V                 |  10V                 |
+| 1m           |  2V                 |  6.8V                |
 
 ### Bending Loss
 
 | Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
+|------------------|---------------------|----------------------|
+|  0.5m            | Proper Connector(2V)| 6.8V                 |
+|  1m              | Loose Connector(2V) | 5.2V                 |
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
