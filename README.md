@@ -39,6 +39,9 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |  0.5m            | Proper Connector(2V)| 6.8V                 |
 |  1m              | Loose Connector(2V) | 5.2V                 |
 
+### Calcualtion
+![WhatsApp Image 2025-11-27 at 20 59 11_4fe4443f](https://github.com/user-attachments/assets/e212ca15-5b90-4407-b384-8dc1581d74b7)
+
 **Result:**  
 Attenuation and bending loss characteristics verified.
 
