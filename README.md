@@ -24,7 +24,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 - Bend fiber and record output vs diameter   
 
 **Tabulation:**
-
+ 
 ### Propagation Loss
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
